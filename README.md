@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**yo-onhye/yo-onhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+### I am FE Developer 👋
 
-Here are some ideas to get you started:
+### Technical Skils
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5, CSS3, SCSS, JQuery, Java Script, ES6, React
+
+### Interest
+
+- Improve website accessibility
+- Learning ES6 & React 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woony0807@gmail.com)](mailto:woony0807@gmail.com)
+</div>
