@@ -1,13 +1,13 @@
 
 <div align=center>
 
-### I am FE Developer 👋
+### 👋
 
 </div>
 
 ### Technical Skils
 
-HTML5, CSS3, SCSS, JQuery, Java Script, ES6, React
+HTML5, CSS3, SCSS, JQuery, Java Script
 
 ### Interest
 
